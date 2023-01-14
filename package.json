@@ -15,7 +15,7 @@
     "cypress:open:storybook": "yarn cypress open --config-file cypress.storybook.json"
   },
   "engines": {
-    "nodde": "16.x"
+    "node": "16.x"
   },
   "dependencies": {
     "@nuxt/typescript-runtime": "^2.0.0",
